@@ -69372,7 +69372,22 @@
       "tags": [
         "social-token"
       ]
-    }
+    },
+    {
+      "chainId": 101,
+      "address": "EnXcqotXpNi7mvsvJhbXcDGh7aWWin3ubBpXUjwK47HJ",
+      "symbol": "BEMO",
+      "name": "Beyond Money",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/kenny1ram/crypto/main/bemo.png",
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "description": "The Future of Plant Based Money"
+      }
   ],
   "version": {
     "major": 0,
